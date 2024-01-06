@@ -1,0 +1,134 @@
+{
+  "Day": [
+    {
+      "Sunday": [
+        {
+          "Theory" : 
+          [
+            {
+            "subject": "",
+            "teacher": "",
+            "start_time": "",
+            "end_time": ""
+            }
+          ],
+
+          "Practical" :
+          [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ]
+        }
+      ],
+
+      "Monday": [
+        {
+          "Theory": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ],
+          "Practical": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ]
+        }
+      ],
+
+      "Tuesday": [
+        {
+          "Theory": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ],
+          "Practical": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ]
+        }
+      ],
+
+      "Wednesday": [
+        {
+          "Theory": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ],
+          "Practical": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ]
+        }
+      ],
+
+      "Thursday": [
+        {
+          "Theory": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ],
+          "Practical": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ]
+        }
+      ],
+
+      "Friday": [
+        {
+          "Theory": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ],
+          "Practical": [
+            {
+              "subject": "",
+              "teacher": "",
+              "start_time": "",
+              "end_time": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

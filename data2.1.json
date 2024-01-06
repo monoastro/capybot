@@ -1,0 +1,182 @@
+[
+  {
+    "subject": "Probability & Statistics",
+    "teacher": "TBB",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Sunday",
+    "start_time": "10:15:00",
+    "end_time": "11:55:00"
+  },
+  {
+    "subject": "Maths",
+    "teacher": "MS",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Sunday",
+    "start_time": "11:55:00",
+    "end_time": "13:35:00"
+  },
+  {
+    "subject": "Instrumentation",
+    "teacher": "RK",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Sunday",
+    "start_time": "14:25:00",
+    "end_time": "16:55:00"
+  },
+  {
+    "subject": "Electromagnetics",
+    "teacher": "SSS",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Monday",
+    "start_time": "10:15:00",
+    "end_time": "11:55:00"
+  },
+  {
+    "subject": "Electronc Devices & Circuit",
+    "teacher": "DK",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Monday",
+    "start_time": "12:45:00",
+    "end_time": "14:25:00"
+  },
+  {
+    "subject": "Electronic Devices & Circuit / Instrumentation",
+    "teacher": "DK / RK",
+    "category": "L",
+    "level": "BEI II/I",
+    "group": "A/B",
+    "day": "Monday",
+    "start_time": "14:25:00",
+    "end_time": "16:55:00"
+  },
+  {
+    "subject": "Control System",
+    "teacher": "UKG",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Tuesday",
+    "start_time": "11:55:00",
+    "end_time": "13:35:00"
+  },
+  {
+    "subject": "Maths",
+    "teacher": "HK",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Tuesday",
+    "start_time": "13:35:00",
+    "end_time": "14:25:00"
+  },
+  {
+    "subject": "Electronic Devices & Circuit",
+    "teacher": "DK",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Tuesday",
+    "start_time": "15:15:00",
+    "end_time": "16:55:00"
+  },
+    {
+    "subject": "Control System",
+    "teacher": "UKG",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Wednesday",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00"
+  },
+    {
+    "subject": "Maths",
+    "teacher": "MS",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Wednesday",
+    "start_time": "11:00:00",
+    "end_time": "12:00:00"
+  },
+    {
+    "subject": "Electromagnetics",
+    "teacher": "SSS",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Wednesday",
+    "start_time": "12:00:00",
+    "end_time": "13:30:00"
+  },
+  {
+    "subject": "Maths",
+    "teacher": "HRL",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Thursday",
+    "start_time": "10:15:00",
+    "end_time": "11:55:00"
+  },
+  {
+    "subject": "Probability & Statistics",
+    "teacher": "MS",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Thursday",
+    "start_time": "11:55:00",
+    "end_time": "13:35:00"
+  },
+  {
+    "subject": "Instrumentation",
+    "teacher": "RK",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Thursday",
+    "start_time": "14:25:00",
+    "end_time": "16:05:00"
+  },
+  {
+    "subject": "Control System",
+    "teacher": "UKG",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Friday",
+    "start_time": "10:15:00",
+    "end_time": "11:55:00"
+  },
+  {
+    "subject": "Electromagnetics",
+    "teacher": "SSS",
+    "category": "TH",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Friday",
+    "start_time": "11:55:00",
+    "end_time": "13:35:00"
+  },
+  {
+    "subject": "Control System / Electromagnetics",
+    "teacher": "UKG, SM / SSS",
+    "category": "L",
+    "level": "BEI II/I",
+    "group": "Both",
+    "day": "Friday",
+    "start_time": "14:25:00",
+    "end_time": "16:55:00"
+  }
+]
